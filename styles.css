@@ -1,0 +1,29 @@
+
+
+.navbar-brand {
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 30px;
+    text-align: left;
+  }
+
+.navbar-brand img {
+    width: 60px;
+  }
+
+.nav-link {
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 30px;
+    justify-content: space-between
+}
+
+.pool img {
+  width:600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.form-group {
+  background-color: lightblue;
+}
