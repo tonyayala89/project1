@@ -1,4 +1,11 @@
+body {
+  font-family: 'Baloo Tamma 2', cursive;
+}
 
+h4 {
+font-size: 1.2rem;
+font-weight: 300;
+}
 
 .navbar-brand {
     font-family: 'Baloo Tamma 2', cursive;
@@ -14,6 +21,16 @@
     font-family: 'Baloo Tamma 2', cursive;
     font-size: 30px;
     justify-content: space-between
+}
+
+.jumbotron {
+  background-attachment: scroll;
+  background-image: url(location.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: right;
+  color: white;
+  height:325px;
 }
 
 .pool img {
