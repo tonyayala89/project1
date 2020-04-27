@@ -2,9 +2,22 @@ body {
   font-family: 'Baloo Tamma 2', cursive;
 }
 
+h2 {
+  font-style: oblique;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
 h4 {
 font-size: 1.2rem;
 font-weight: 300;
+}
+
+.heading {
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .navbar-brand {
@@ -20,7 +33,7 @@ font-weight: 300;
 .nav-link {
     font-family: 'Baloo Tamma 2', cursive;
     font-size: 30px;
-    justify-content: space-between
+    justify-content: space-between;
 }
 
 .jumbotron {
@@ -41,6 +54,10 @@ font-weight: 300;
 }
 
 
-.form-group {
-  background-color: lightblue;
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  font-size: 10px;
+  margin-top: 25px;
 }
